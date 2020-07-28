@@ -15,8 +15,8 @@
 ![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
 ![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
 
-![Best site award](./MGBs-Awesome-AwardE2.gif)
-![Stickman fighting a wall](./awesome.gif)
+![Best site award](https://github.com/tskarhed/tskarhed/blob/master/MGBs-Awesome-AwardE2.gif)
+![Stickman fighting a wall](https://github.com/tskarhed/tskarhed/blob/master/awesome.gif)
 
 __Gifs found via [GifCities](https://gifcities.org/?q=awesome)__
 
