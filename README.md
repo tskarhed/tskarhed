@@ -1,24 +1,39 @@
-### The web needs more gifs 👋
+# Some projects
 
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
-![Spinning dollar sign](https://web.archive.org/web/20090804113154/http://geocities.com/SunsetStrip/Lounge/7650/dollarspindownd.gif)
+## Music :musical_score:
 
-![Best site award](https://github.com/tskarhed/tskarhed/blob/master/MGBs-Awesome-AwardE2.gif)
-![Stickman fighting a wall](https://github.com/tskarhed/tskarhed/blob/master/awesome.gif)
+I'm interested in music, so naturally I write some code for it
 
-__Gifs found via [GifCities](https://gifcities.org/?q=awesome)__
+### [Setlist](https://setlist.skarhed.com/)
+A tool for giving start notes to singers.
+__Tech__: CRA, Typescript, Redux, Framer Motion, Firebase
+
+### [Pie Piper :piper:](https://pied-piper.netlify.app/)
+An app for Tin Whistle tabs. WIP. Set up Webpack with React etc. from scratch.
+
+### music-theory
+A package meant to handle and create notes, scales and chords. Practice in OOP and aiming for 100% test coverage.
+
+## Educational :microscope:
+### [text-to-binary](http://text-to-binary.com/)
+A text to binary and vice versa converter that doesn't look like it is from the 90s.
+
+### [visual-linear-transform](https://tskarhed.github.io/visual-linear-transform/)
+Visualizes what a transformation matrix does. Good for first time linear algebra students.
+
+### [Let's multiply](https://tskarhed.github.io/lets-multiply/)
+Practice multipication quickly!
+
+## Satire/Comedy
+I use satire to justify making really stupid websites.
+
+### [TacOS](https://tacos.dev/)
+MacOS? No. We're introducting TacOS with all good features!
+
+### [Help Elon](https://tskarhed.github.io/help-elon/)
+We must help Elon Musk with the simple things. Have a look at https://helpelon.org/ for my friend's version, it is way better.
+
+
 
 <!--
 **tskarhed/tskarhed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
