@@ -10,10 +10,10 @@ I'm interested in music, so naturally I write some code for it
 A tool for giving start notes to singers.
 __Tech__: CRA, Typescript, Redux, Framer Motion, Firebase
 
-#### [Pie Piper](https://pied-piper.netlify.app/)
+#### [Pied Piper](https://pied-piper.netlify.app/)
 An app for Tin Whistle tabs. WIP. Set up Webpack with React etc. from scratch.
 
-#### music-theory
+#### [music-theory](https://github.com/tskarhed/music-theory)
 A package meant to handle and create notes, scales and chords. Practice in OOP and aiming for 100% test coverage.
 
 ### Educational :microscope:
