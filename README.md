@@ -40,7 +40,7 @@ MacOS? No. We're introducting TacOS with all good features!
 We must help Elon Musk with the simple things. Have a look at https://helpelon.org/ for my friend's version, it is way better.
 
 
-
+<a href="https://www.buymeacoffee.com/tskarhed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!--
 **tskarhed/tskarhed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
