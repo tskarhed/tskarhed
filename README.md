@@ -6,7 +6,7 @@
 
 I'm interested in music, so naturally I write some code for it
 
-#### [doremi.studio](http://stage.doremi.studio/)
+#### [doremi.studio](https://github.com/tskarhed/doremi.studio)
 A tool for giving start notes to singers.
 __Tech__: CRA, Typescript, Redux, Framer Motion, Firebase
 
