@@ -1,4 +1,4 @@
-![Tobias' github stats](https://github-readme-stats.vercel.app/api?username=tskarhed&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars)
+![Tobias' github stats](https://github-readme-stats.vercel.app/api?username=tskarhed&show_icons=true&theme=gradient&count_private=true&include_all_commits=false&hide=stars)
 
 ## Some projects
 
@@ -6,15 +6,15 @@
 
 I'm interested in music, so naturally I write some code for it
 
-#### [doremi.studio](https://github.com/tskarhed/doremi.studio)
-A tool for giving start notes to singers.
-__Tech__: CRA, Typescript, Redux, Framer Motion, Firebase
-
 #### [Pied Piper](https://pied-piper.netlify.app/)
-An app for Tin Whistle tabs. WIP. Set up Webpack with React etc. from scratch.
+An app for Tin Whistle tabs. WIP. Uses 11ty
 
 #### [music-theory](https://github.com/tskarhed/music-theory)
 A package meant to handle and create notes, scales and chords. Practice in OOP and aiming for 100% test coverage.
+
+#### [doremi.studio](https://github.com/tskarhed/doremi.studio)
+A tool for giving start notes to singers.
+__Tech__: CRA, Typescript, Redux, Framer Motion, Firebase
 
 ### Educational :microscope:
 
@@ -33,14 +33,12 @@ Practice multipication quickly!
 ### Satire/Comedy
 I use satire to justify making really stupid websites.
 
-#### [TacOS](https://tacos.dev/)
+#### [TacOS](https://tobias-tacos.netlify.app/)
 MacOS? No. We're introducting TacOS with all good features!
 
-#### [Help Elon](https://tskarhed.github.io/help-elon/)
-We must help Elon Musk with the simple things. Have a look at https://helpelon.org/ for my friend's version, it is way better.
+#### [Should I...?](https://github.com/tskarhed/should-i)
+[A Github template for generating websites that answer stupid questions.](https://github.com/tskarhed/should-i)
 
-
-<a href="https://www.buymeacoffee.com/tskarhed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!--
 **tskarhed/tskarhed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
