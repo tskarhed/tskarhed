@@ -1,5 +1,7 @@
 ![Tobias' github stats](https://github-readme-stats.vercel.app/api?username=tskarhed&show_icons=true&theme=gradient&count_private=true&include_all_commits=false&hide=stars)
 
+I am currenty a technical student at CERN. Part of the [Grafana governance team](https://github.com/grafana/grafana/blob/main/GOVERNANCE.md).
+
 ## Some projects
 
 <details>
