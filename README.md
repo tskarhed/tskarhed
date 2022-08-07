@@ -2,7 +2,8 @@
 
 ## Some projects
 
-### Music :musical_score:
+<details>
+<summary> <h3>Music :musical_score:</h3> </summary>
 
 I'm interested in music, so naturally I write some code for it
 
@@ -16,7 +17,11 @@ A package meant to handle and create notes, scales and chords. Practice in OOP a
 A tool for giving start notes to singers.
 __Tech__: CRA, Typescript, Redux, Framer Motion, Firebase
 
-### Educational :microscope:
+</details>
+
+<details>
+
+<summary> <h3>Educational :microscope:</h3> </summary>
 
 #### [text-to-binary](http://text-to-binary.com/)
 
@@ -30,7 +35,10 @@ Visualizes what a transformation matrix does. Good for first time linear algebra
 
 Practice multipication quickly!
 
-### Satire/Comedy
+</details>
+
+<details>
+<summary> <h3>Satire/Comedy :clown_face:</h3> </summary>
 I use satire to justify making really stupid websites.
 
 #### [TacOS](https://tobias-tacos.netlify.app/)
@@ -38,7 +46,7 @@ MacOS? No. We're introducting TacOS with all good features!
 
 #### [Should I...?](https://github.com/tskarhed/should-i)
 [A Github template for generating websites that answer stupid questions.](https://github.com/tskarhed/should-i)
-
+</details>
 <!--
 **tskarhed/tskarhed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
