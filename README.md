@@ -1,5 +1,3 @@
-I am currenty a technical student at CERN. Part of the [Grafana governance team](https://github.com/grafana/grafana/blob/main/GOVERNANCE.md).
-
 ## Some projects
 
 <details>
