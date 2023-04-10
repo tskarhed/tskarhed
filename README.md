@@ -1,3 +1,4 @@
+![stick man action gif](./awesome.gif)
 ## Some projects
 
 <details>
